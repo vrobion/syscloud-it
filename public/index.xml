@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accueil - SysCloud IT :: SysCloud IT</title>
+    <link>//localhost:1313/index.html</link>
+    <description>Bienvenue sur SysCloud IT 👋 Bienvenue sur mon espace de documentation personnel dédié aux systèmes, au réseau et au cloud. Ce site me sert de bloc-notes et de base de connaissances pour centraliser toutes mes configurations et astuces techniques.&#xA;📂 Sommaire Général Le thème génère automatiquement le menu à gauche, mais voici les grandes sections à explorer :</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 21 Jun 2026 12:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Systèmes &amp; Linux</title>
+      <link>//localhost:1313/windows/index.html</link>
+      <pubDate>Sun, 21 Jun 2026 12:00:00 +0000</pubDate>
+      <guid>//localhost:1313/windows/index.html</guid>
+      <description>🖥️ Systèmes &amp; Linux Bienvenue dans la section dédiée à l’administration système et à l’univers Linux. Vous trouverez ici mes guides de configuration, astuces pour Zorin OS / Ubuntu, et mes scripts utiles.&#xA;📄 Pages disponibles : Le thème Relearn listera automatiquement ci-dessous toutes les fiches que nous allons ajouter dans ce dossier !</description>
+    </item>
+  </channel>
+</rss>

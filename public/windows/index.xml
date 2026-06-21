@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Systèmes &amp; Linux :: SysCloud IT</title>
+    <link>//localhost:1313/windows/index.html</link>
+    <description>🖥️ Systèmes &amp; Linux Bienvenue dans la section dédiée à l’administration système et à l’univers Linux. Vous trouverez ici mes guides de configuration, astuces pour Zorin OS / Ubuntu, et mes scripts utiles.&#xA;📄 Pages disponibles : Le thème Relearn listera automatiquement ci-dessous toutes les fiches que nous allons ajouter dans ce dossier !</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 21 Jun 2026 12:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configuration Zorin OS</title>
+      <link>//localhost:1313/windows/configuration-zorin/index.html</link>
+      <pubDate>Sun, 21 Jun 2026 12:00:00 +0000</pubDate>
+      <guid>//localhost:1313/windows/configuration-zorin/index.html</guid>
+      <description>Ma Post-Installation de Zorin OS 🚀 Voici les étapes et commandes que j’exécute juste après l’installation de mon système :&#xA;1. Mise à jour complète sudo apt update &amp;&amp; sudo apt upgrade -y</description>
+    </item>
+  </channel>
+</rss>
