@@ -1,4 +1,4 @@
-baseURL = 'https://syscloud-it.com/'
+#baseURL = 'https://syscloud-it.com/'
 languageCode = 'fr-fr'
 title = 'SysCloud IT'
 theme = 'hugo-relearn'
