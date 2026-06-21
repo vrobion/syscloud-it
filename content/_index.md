@@ -13,7 +13,7 @@ Bienvenue sur mon espace de documentation personnel dédié aux systèmes, au r�
 
 Le thème génère automatiquement le menu à gauche, mais voici les grandes sections à explorer :
 
-### <img src="/images/icons8-office-365.svg" style="height: 24px; vertical-align: middle; margin-right: 8px; display: inline-block;"> 1. Microsoft 365
+### <img src="images/icons8-office-365.svg" style="height: 24px; vertical-align: middle; margin-right: 8px; display: inline-block;"> 1. Microsoft 365
 * [Accéder à la section Systèmes & Linux](/Windows/) : Retrouvez mon guide de configuration Zorin OS et mes mémos de post-installation.
 
 ### ☁️ 2. Microsoft Azure
