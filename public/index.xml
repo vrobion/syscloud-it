@@ -3,7 +3,7 @@
   <channel>
     <title>Accueil - SysCloud IT :: SysCloud IT</title>
     <link>//localhost:1313/index.html</link>
-    <description>Bienvenue sur SysCloud IT 👋 Bienvenue sur mon espace de documentation personnel dédié aux systèmes, au réseau et au cloud. Ce site me sert de bloc-notes et de base de connaissances pour centraliser toutes mes configurations et astuces techniques.&#xA;📂 Sommaire Général Le thème génère automatiquement le menu à gauche, mais voici les grandes sections à explorer :</description>
+    <description>Bienvenue sur SysCloud IT 👋 Bienvenue sur mon espace de documentation personnel dédié aux systèmes, au réseau et au cloud. Ce site me sert de bloc-notes et de base de connaissances pour centraliser toutes mes configurations et astuces techniques. 📂 Sommaire Général Le thème génère automatiquement le menu à gauche, mais voici les grandes sections à explorer :</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sun, 21 Jun 2026 12:00:00 +0000</lastBuildDate>
