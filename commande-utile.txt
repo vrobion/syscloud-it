@@ -1,0 +1,8 @@
+# Création nouvelle page
+/usr/local/bin/hugo new content windows/le-nom-de-ta-fiche.md
+
+# Démarrer hugo
+/usr/local/bin/hugo server -D --bind 0.0.0.0
+
+# Fichier à ignorer par git
+.gitignore

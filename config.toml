@@ -1,0 +1,9 @@
+baseURL = 'https://syscloud-it.com/'
+languageCode = 'fr-fr'
+title = 'SysCloud IT'
+theme = 'hugo-relearn'
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+baseURL = "https://vrobion.github.io/syscloud-it.com/"
