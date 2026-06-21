@@ -7,3 +7,4 @@ theme = 'hugo-relearn'
     [markup.goldmark.renderer]
       unsafe = true
 baseURL = "https://vrobion.github.io/syscloud-it.com/"
+canonifyURLs = true
