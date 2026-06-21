@@ -30,7 +30,7 @@ jobs:
         with:
           hugo-version: 'latest'
       - name: Build
-        run: hugo --minify
+        run: hugo --minify --baseURL "https://vrobion.github.io/syscloud-it/"
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
